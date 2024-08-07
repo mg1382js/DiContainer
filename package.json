@@ -1,0 +1,11 @@
+{
+  "name": "@mahdi.golzar/dicontainer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mahdi.golzar",
+  "license": "ISC",
+  "description": "Dependency Injection Container"
+}
